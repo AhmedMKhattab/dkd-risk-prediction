@@ -221,3 +221,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+
+# Generated analysis outputs
+notebooks/outputs_*/
+notebooks/revision_figures_*/
+
+# Large image files
+*.tiff
+*.tif
+
+# Research data
+*.parquet
+*.feather
+*.h5
+*.hdf5
